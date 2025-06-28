@@ -1,5 +1,7 @@
 # Environment variables
 .env
+README.md
+specs/specs.md
 
 # Go artifacts
 backend/main
