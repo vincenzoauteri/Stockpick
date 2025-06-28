@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Go artifacts
+backend/main
+backend/*.exe
+backend/*.test
+backend/build/
+
+# Node.js and React artifacts
+frontend/node_modules/
+frontend/dist/
+
+# Database data (Docker volume)
+db_data/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
